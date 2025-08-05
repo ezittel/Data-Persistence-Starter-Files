@@ -9,7 +9,7 @@ public class Brick : MonoBehaviour
     public UnityEvent<int> onDestroyed;
     
     public int PointValue;
-
+    public AudioClip brickSound;
     void Start()
     {
         var renderer = GetComponentInChildren<Renderer>();
@@ -35,6 +35,7 @@ public class Brick : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
+        AudioSource.PlayClipAtPoint(brickSound, transform.position);
         onDestroyed.Invoke(PointValue);
         
         //slight delay to be sure the ball have time to bounce

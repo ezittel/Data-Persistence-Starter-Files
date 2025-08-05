@@ -73,3 +73,200 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.png
+Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.json
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Assets/TextMesh Pro/Sprites.meta
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro.cginc
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl.meta
+Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl
+Assets/TextMesh Pro/Shaders.meta
+Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+Assets/TextMesh Pro/Resources/TMP Settings.asset
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Assets/TextMesh Pro/Resources/Style Sheets.meta
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Assets/TextMesh Pro/Resources/Sprite Assets.meta
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Resources.meta
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Assets/TextMesh Pro/Fonts.meta
+Assets/TextMesh Pro.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-50.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-50.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-49.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-49.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-48.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-48.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-47.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-47.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-46.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-46.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-45.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-45.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-44.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-44.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-43.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-43.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-42.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-42.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-41.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-41.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-40.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-40.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-39.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-39.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-38.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-38.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-37.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-37.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-36.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-36.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-35.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-35.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-34.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-34.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-32.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-32.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-31.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-31.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-29.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-29.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-28.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-28.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-27.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-27.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-26.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-26.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-25.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-25.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-24.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-24.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-23.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-23.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-22.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-22.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-21.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-21.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-20.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-20.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-19.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-19.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-18.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-18.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-17.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-17.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-16.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-16.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-15.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-15.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-14.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-14.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-13.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-13.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-12.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-12.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-11.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-11.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-10.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-10.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-09.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-09.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-08.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-08.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-07.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-07.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-06.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-06.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-05.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-05.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-04.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-04.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-03.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-03.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-02.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-02.wav
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-01.wav.meta
+Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-01.wav
+Assets/Casual Game Sounds U6/CasualGameSounds.meta
+Assets/Casual Game Sounds U6.meta
+Assets/8Bit Music - 062022/9. Track 9.wav.meta
+Assets/8Bit Music - 062022/9. Track 9.wav
+Assets/8Bit Music - 062022/8. Track 8.wav.meta
+Assets/8Bit Music - 062022/8. Track 8.wav
+Assets/8Bit Music - 062022/7. Track 7.wav.meta
+Assets/8Bit Music - 062022/7. Track 7.wav
+Assets/8Bit Music - 062022/6. Track 6.wav.meta
+Assets/8Bit Music - 062022/6. Track 6.wav
+Assets/8Bit Music - 062022/5. Track 5.wav.meta
+Assets/8Bit Music - 062022/5. Track 5.wav
+Assets/8Bit Music - 062022/3. Track 3.wav.meta
+Assets/8Bit Music - 062022/3. Track 3.wav
+Assets/8Bit Music - 062022/10. Track 10.wav.meta
+Assets/8Bit Music - 062022/10. Track 10.wav
+Assets/8Bit Music - 062022/1. Track 1.wav.meta
+Assets/8Bit Music - 062022/1. Track 1.wav
+Assets/8Bit Music - 062022.meta
